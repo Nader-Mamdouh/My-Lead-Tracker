@@ -9,7 +9,7 @@ import {
 import { getAnalytics } from "https://www.gstatic.com/firebasejs/10.12.5/firebase-analytics.js";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDuSBKfljgY4IuWrIL8AP6lgb-W6cFUNLg",
+  apiKey: "#",
   authDomain: "my-leads-tracker-71350.firebaseapp.com",
   databaseURL:
     "https://my-leads-tracker-71350-default-rtdb.europe-west1.firebasedatabase.app",
